@@ -1,0 +1,24 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "Axios React",
+      "author": "Ertuğrul Emre Cihan"
+    },
+    {
+      "id": 2,
+      "title": "Axios React Native",
+      "author": "Ertuğrul Emre Cihan"
+    },
+    {
+      "id": 3,
+      "title": "Axios Javascript",
+      "author": "Ertuğrul Emre Cihan"
+    },
+    {
+      "title": "Testa",
+      "id": 4,
+      "author": "Ertuğrul Emre Cihan"
+    }
+  ]
+}
